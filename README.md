@@ -2,130 +2,120 @@
 <h1 align="center">Hi, I'm Raj Kapasi 👋</h1>
 
 <h3 align="center">
-  Aspiring SOC Analyst | Cybersecurity Learner | Detection Engineering
+  Cybersecurity | SOC Operations | Threat Intelligence | Detection Engineering
 </h3>
 
 <p align="center">
-  Building practical cybersecurity projects, investigating threats,
-  and developing solutions to real-world SOC challenges.
+  Building practical security solutions, investigating threats,
+  and solving real-world cybersecurity challenges.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RajKapasi&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔐 Aspiring SOC Analyst focused on security monitoring and threat detection.
-- 🛠️ Currently building a **Custom Threat Intelligence Platform (CTIP)**.
-- 🔎 Studying the **evidence-gap problem in SOC workflows**.
-- 📊 Developing and organizing Sigma detection rules.
-- 🐍 Learning Python for security automation and investigation.
-- 🧪 Practicing hands-on cybersecurity labs with TryHackMe and LetsDefend.
-- 🤝 Open to cybersecurity internships, collaboration, and learning from
-  experienced security professionals.
+- 🔐 Focused on Security Operations Center (SOC) workflows and threat detection.
+- 🛡️ Developing a **Custom Threat Intelligence Platform (CTIP)**.
+- 🔎 Studying the **evidence-gap problem in SOC investigations**.
+- 📊 Building Sigma detection rules to identify suspicious activity.
+- 🐍 Using Python to develop security tools and automation workflows.
+- 🧪 Practicing hands-on cybersecurity through TryHackMe and LetsDefend.
+- 🤝 Open to cybersecurity internships, technical collaboration, and knowledge sharing.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects Portfolio
 
-### 🛡️ Custom Threat Intelligence Platform (CTIP)
-A project focused on collecting, storing, and analyzing threat intelligence
-indicators from external sources.
-
-**Tech Stack:** Python, FastAPI, PostgreSQL, n8n, REST APIs
-
-- Collecting threat intelligence from external feeds.
-- Validating and storing IP addresses, domains, and URLs.
-- Implementing duplicate detection and risk scoring.
-- Exploring how threat intelligence can support SOC investigations.
-- Investigating evidence gaps between threat intelligence and security logs.
-
-### 🔍 Sigma Detection Engineering
-A collection of Sigma rules designed to identify suspicious activity
-and support security monitoring.
-
-**Tech Stack:** Sigma, YAML, Windows Event Logs
-
-- Writing and organizing detection rules.
-- Exploring suspicious behavior and attack techniques.
-- Learning detection rule conversion for SIEM platforms.
-
-### 🌐 Mini Nmap / Network Scanner
-A Python-based project exploring network discovery and service identification.
-
-**Tech Stack:** Python, Socket Programming, ThreadPoolExecutor
-
-- Scanning TCP ports.
-- Exploring service and banner identification.
-- Practicing network programming and troubleshooting.
+| Project Title | Description | Languages / Technologies |
+|---|---|---|
+| 🛡️ Custom Threat Intelligence Platform (CTIP) | Collects threat intelligence from external feeds, stores and deduplicates indicators, assigns risk scores, and explores how threat intelligence supports SOC investigations and evidence-gap analysis. | Python, FastAPI, PostgreSQL, n8n |
+| 🔍 Sigma Detection Rules | A collection of detection rules designed to identify suspicious activity and support security monitoring and detection engineering. | Sigma, YAML, Windows Event Logs |
+| 🌐 Net-can_Reconn | A network scanning tool that explores TCP port scanning, service identification, and banner grabbing. | Python, Socket Programming, ThreadPoolExecutor |
+| 🧪 API Fuzzer | Tests API endpoints with configurable inputs and wordlists to explore unexpected responses and potential security weaknesses. | Python, Requests, Argparse, Threading, Colorama, JSON |
+| 🔐 SOC Home Lab | A hands-on environment for practicing security monitoring, network traffic analysis, and investigation workflows across virtual machines. | Kali Linux, Windows, Wireshark, Virtual Machines, pfSense, Windows Active Directory, Sysmon, Wazuh |
+| 🔍 SOC Lab – Windows Audit Policies | Configures enterprise Windows audit policies and analyzes security events to support Active Directory monitoring, endpoint visibility, and SOC investigations. | Windows Audit Policies, Active Directory, Wazuh, Sysmon, Windows Event Logs |
+| 🔥 pfSense Firewall Rules | Documents the implementation and configuration of pfSense as the firewall for a SOC home lab, supporting network traffic control and firewall policy management. | pfSense, Firewall Rules, Network Security, SOC Home Lab |
 
 ---
 
 ## 🧰 Technical Skills
 
-**Programming**
-- Python
-- SQL
-- Bash / PowerShell fundamentals
-
-**Security Operations**
-- SOC fundamentals
-- Alert triage and investigation
-- Threat intelligence
+### Security Operations
+- SOC fundamentals and alert triage
+- Threat intelligence collection and analysis
 - Log analysis fundamentals
-- Sigma detection rules
+- Sigma detection engineering
+- Network traffic analysis
 - Incident response fundamentals
 
-**Tools & Technologies**
+### Programming & Development
+- Python
+- C 
+- SQL
+- FastAPI
+- PostgreSQL
+- SQLite
+- n8n workflow automation
+
+### Security Tools
 - Wireshark
 - Burp Suite
 - Nmap
 - Splunk fundamentals
-- FastAPI
-- PostgreSQL
-- n8n
-- Git & GitHub
-- Kali Linux
+- Wazuh
+
+### Operating Systems & Platforms
+- Windows
+- Linux
+- Git and GitHub
+- Virtual machines
 
 ---
 
 ## 🏅 Certifications & Hands-on Learning
 
-- LetsDefend — SOC-related certificate
-- TryHackMe — Hands-on cybersecurity learning
+- **LetsDefend:** SOC-related certificate
+- **TryHackMe:** Hands-on cybersecurity training
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Statistics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=RajKapasi&show_icons=true&theme=tokyonight"
+    alt="GitHub Statistics"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajKapasi&layout=compact&theme=tokyonight"
+    alt="Most Used Languages"
   />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 Current Focus
 
-- 💼 LinkedIn: YOUR_LINKEDIN_URL
-- 🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- 📧 Email: YOUR_PROFESSIONAL_EMAIL
+- Expanding CTIP with additional threat intelligence sources.
+- Improving indicator validation, deduplication, and risk scoring.
+- Exploring evidence gaps between threat intelligence and available SOC logs.
+- Developing practical detection engineering and security automation skills.
 
-I'm interested in cybersecurity opportunities, practical security research,
-and collaborating on projects that solve real-world security problems.
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/rajkapasi/
+- 🐙 GitHub: https://github.com/RajKapasi
+- 📧 Email: rajkapasi2005@gmail.com
 
 <p align="center">
-  <b>Learn continuously. Investigate carefully. Build to solve problems.</b>
+  <b>Investigate threats. Build practical solutions. Improve security.</b>
 </p>
